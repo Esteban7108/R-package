@@ -1,0 +1,12 @@
+Package: Parcial
+Type: Package
+Title: Análisis de Datos de Vida
+Version: 0.1.0
+Author: Estebann
+Maintainer: The package maintainer <estebanvargas699@gmail.com>
+Description: Paquete para realizar análisis de regresión y validar supuestos en datos de esperanza de vida.
+License: MIT + file LICENSE
+Imports: ggplot2, stats, lmtest, zoo
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
